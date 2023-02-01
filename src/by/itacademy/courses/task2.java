@@ -1,5 +1,5 @@
 package src.by.itacademy.courses;
-public class task2 {
+public class Task2 {
     public static void main(String[] args) {
        int number1 = 40;
        int number2 = 20;

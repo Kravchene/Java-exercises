@@ -8,7 +8,7 @@ public class Task5 {
         int number= in.nextInt();
 
         String even = number % 2==0 ? "четное" : "нечетное";
-        int remainderOrZero = number % 2 ==0 ? 05:number%2 ;
+        int remainderOrZero = number % 2 ==0 ? 0:number%2 ;
         System.out.println(even+"\n"+remainderOrZero);
     }
 }
